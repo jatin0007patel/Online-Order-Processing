@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ONLINE ORDER TRACKING", ".", "{92CF0BAB-147F-4754-9B31-CB2FCE95CE9D}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/ONLINE ORDER TRACKING"
+		Debug.AspNetCompiler.PhysicalPath = "F:\ONLINE ORDER TRACKING\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\ONLINE ORDER TRACKING\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/ONLINE ORDER TRACKING"
+		Release.AspNetCompiler.PhysicalPath = "F:\ONLINE ORDER TRACKING\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\ONLINE ORDER TRACKING\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1030"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92CF0BAB-147F-4754-9B31-CB2FCE95CE9D}.Debug|.NET.ActiveCfg = Debug|.NET
+		{92CF0BAB-147F-4754-9B31-CB2FCE95CE9D}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

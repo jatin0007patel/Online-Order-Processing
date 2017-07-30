@@ -1,0 +1,1 @@
+name=Indot Web Solution PVT.LTD&slogan=Buy at best price&phrase=www.elvicinfotechpvtltd.com&button1=HOME&button2=LOGIN&button3=REGISTRATION&button4=CONTECT US&button5=ABOUT US&icon1=home&icon2=search&icon3=contact&rep=replay&url1=HOME.aspx&url2=login.aspx&url3=reg.aspx&url4=contect.aspx&url5=About_us.aspx&url6=#&iurl1=Home.aspx&iurl2=#&iurl3=contect.aspx&enddata=1
